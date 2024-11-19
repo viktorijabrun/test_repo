@@ -1,1 +1,10 @@
 To do List Testavimas
+
+Non functional testing:
+1. Priartinant, atitolinant ekraną pavadinimas neprisitaiko prie ekrano dydžio.
+2. Užvedus pelę ant X (remove) atsiranda tooltip langas, su neaiškia nuoroda.
+
+Functional testing:
+1. "items left" nurodo neteisingą skaičių. Pažymėjus visus kaip atliktus, "items left" rodo -1.
+2. Neaiški rodyklės prie input funkcija. Paspaudus pirmą kartą, pasižymi visas sąrašas("completed"). Paspaudus antrą kartą, pasikeičia jos spalva,  paspaudus trečią kartą atsinaujina sąrašas į "active".
+
